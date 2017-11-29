@@ -1,0 +1,106 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title  : Hackerspace Lublin
+email  : fundacja@hackerspace-lbn.pl
+teaser : /assets/images/Lublin.jpg
+
+
+# Github Metadata, more at https://github.com/jekyll/github-metadata
+repository: "HackerspaceLBN/HackerspaceLBN"
+
+# Build settings
+markdown: kramdown
+theme : minimal-mistakes-jekyll
+
+
+# Jekyll plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-remote-theme
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-remote-theme
+
+
+# Theme related settings
+locale: "PL-pl"
+include:
+  - _pages
+
+twitter:
+  username: HackerspaceLBN
+facebook:
+  username: hackerspacelbn
+atom_feed:
+  path: ""
+
+social:
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : Hackerspace Lublin # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/HackerspaceLBN"
+    - "https://facebook.com/hackerspacelbn"
+
+analytics:
+  provider      : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id : "UA-92776654-1" # Replace this with your ID, or delete
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
