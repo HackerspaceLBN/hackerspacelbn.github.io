@@ -19,7 +19,7 @@ teaser : /assets/images/Lublin.jpg
 
 
 # Github Metadata, more at https://github.com/jekyll/github-metadata
-repository: "HackerspaceLBN/HackerspaceLBN"
+repository: hackerspacelbn/hackerspacelbn.github.io
 
 # Build settings
 markdown: kramdown
