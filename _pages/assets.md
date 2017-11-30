@@ -1,5 +1,6 @@
 ---
 title: Zasoby
+excerpt: Lista zasobów strony
 permalink: /assets
 ---
 

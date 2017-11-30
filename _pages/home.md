@@ -31,6 +31,8 @@ gallery:
 
 Naszym celem jest propagowanie idei DIY (“Zrób to sam”), zależy nam na rozwoju Lublina i jego mieszkańców poprzez edukację, oraz pośrednie przyczynianie się do rozwoju technologicznego i powstawania nowych, wysoko wyspecjalizowanych firm i miejsc pracy w Lublinie.
 
+--------
+
 W ramach naszej fundacji chcemy zająć się między innymi: edukacją techniczną dzieci i młodzieży, organizowaniem konferencji naukowych i technicznych w Lublinie, rozwijaniem technologii związanych z automatyką, technologiami ekologicznymi, technologiami odnawialnych źródeł energii oraz robotyką.
 
 # Wspierają nas

@@ -1,5 +1,6 @@
 ---
-title: Statut fundacji „MAKERSPACE LUBLIN”
+title: Statut
+excerpt: Statut fundacji „MAKERSPACE LUBLIN”
 permalink: /statut/
 ---
 

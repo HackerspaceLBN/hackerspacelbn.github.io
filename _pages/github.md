@@ -1,5 +1,6 @@
 ---
 title: GitHub
+excerpt: Metadane GitHub
 permalink: /github/
 ---
 

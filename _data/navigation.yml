@@ -1,0 +1,9 @@
+main:
+    # - title: Blog
+    #   url: /blog/
+    - title: Statut
+      url: /statut/
+    - title: Darowizny
+      url: /darowizny/
+    - title: Szukaj
+      url: /search/
