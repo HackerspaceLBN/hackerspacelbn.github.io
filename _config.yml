@@ -66,6 +66,9 @@ analytics:
   google:
     tracking_id : "UA-92776654-1" # Replace this with your ID, or delete
 
+collections:
+  - pages
+
 # Defaults
 defaults:
   # _posts
