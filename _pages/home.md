@@ -7,21 +7,21 @@ header:
 
 gallery:
   - url: https://botland.com.pl/
-    image_path: /assets/logos/botland.png
+    image_path: /assets/images/logos/botland.png
     alt: "Botland"
     title: "botland"
   - url: https://edulab.io/
-    image_path: /assets/logos/edulab.png
+    image_path: /assets/images/logos/edulab.png
     alt: "eduLAB"
     title: "eduLAB"
   - url: http://lwit.lublin.eu/
-    image_path: /assets/logos/lwit.png
+    image_path: /assets/images/logos/lwit.png
     alt: "LWIT"
     title: "LWIT"
-  - image_path: /assets/logos/dropcode.png
+  - image_path: /assets/images/logos/dropcode.png
     alt: "Dropcode"
     title: "dropcode"
-  - image_path: /assets/logos/missingbits.png
+  - image_path: /assets/images/logos/missingbits.png
     alt: "MissingBits"
     title: "missingbits"
 ---
@@ -33,3 +33,7 @@ Naszym celem jest propagowanie idei DIY (“Zrób to sam”), zależy nam na roz
 
 W ramach naszej fundacji chcemy zająć się między innymi: edukacją techniczną dzieci i młodzieży, organizowaniem konferencji naukowych i technicznych w Lublinie, rozwijaniem technologii związanych z automatyką, technologiami ekologicznymi, technologiami odnawialnych źródeł energii oraz robotyką.
 
+# Wspierają nas
+{: style="text-align: center;"}
+
+{% include gallery %}
