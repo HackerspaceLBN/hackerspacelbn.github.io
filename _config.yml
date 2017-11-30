@@ -101,6 +101,9 @@ defaults:
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
 
+footer_scripts:
+  - /assets/js/backend_data.js
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
