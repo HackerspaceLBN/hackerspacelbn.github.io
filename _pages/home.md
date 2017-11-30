@@ -4,6 +4,7 @@ excerpt: Jesteśmy społecznością lubelskich twórców
 permalink: /
 header:
   overlay_image: /assets/images/Lublin.jpg
+  overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
 
 gallery:
   - url: https://botland.com.pl/
