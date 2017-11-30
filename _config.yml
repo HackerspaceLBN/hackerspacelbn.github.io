@@ -22,8 +22,7 @@ repository: hackerspacelbn/hackerspacelbn.github.io
 
 # Build settings
 markdown: kramdown
-theme : minimal-mistakes-jekyll
-
+remote_theme: mmistakes/minimal-mistakes
 
 # Jekyll plugins
 plugins:
