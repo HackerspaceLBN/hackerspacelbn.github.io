@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title  : Hackerspace Lublin
 email  : fundacja@hackerspace-lbn.pl
-teaser : /assets/images/Lublin.jpg
 
 
 # Github Metadata, more at https://github.com/jekyll/github-metadata
@@ -47,6 +46,7 @@ whitelist:
 locale: "PL-pl"
 include:
   - _pages
+  - _includes
 
 twitter:
   username: HackerspaceLBN
