@@ -93,6 +93,13 @@ defaults:
       path: "assets/images"
     values:
       image: true
+  - scope:
+      path: "assets/js"
+    values:
+      js: true
+
+head_scripts:
+  - https://code.jquery.com/jquery-3.2.1.min.js
 
 
 # Exclude from processing.
