@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
 
-# Jekyll theme
-gem 'minimal-mistakes-jekyll'
-
 group :jekyll_plugins do
   gem "jekyll-feed", '~> 0.9'
   gem 'jekyll-compose', '~> 0.6'
