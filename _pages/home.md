@@ -33,7 +33,3 @@ Naszym celem jest propagowanie idei DIY (“Zrób to sam”), zależy nam na roz
 
 W ramach naszej fundacji chcemy zająć się między innymi: edukacją techniczną dzieci i młodzieży, organizowaniem konferencji naukowych i technicznych w Lublinie, rozwijaniem technologii związanych z automatyką, technologiami ekologicznymi, technologiami odnawialnych źródeł energii oraz robotyką.
 
-# Wspierają nas
-{: style="text-align: center;"}
-
-{% include gallery %}
