@@ -30,7 +30,7 @@ gallery:
 # O nas
 {: style="text-align: center;"}
 
-Naszym celem jest propagowanie idei DIY (“Zrób to sam”), zależy nam na rozwoju Lublina i jego mieszkańców poprzez edukację, oraz pośrednie przyczynianie się do rozwoju technologicznego i powstawania nowych, wysoko wyspecjalizowanych firm i miejsc pracy w Lublinie.
+Naszym celem jest propagowanie idei DIY (“Zrób to sam”). Zależy nam na rozwoju Lublina i jego mieszkańców poprzez edukację, oraz pośrednie przyczynianie się do rozwoju technologicznego i powstawania nowych, wysoko wyspecjalizowanych firm i miejsc pracy w Lublinie.
 
 --------
 
